@@ -89,23 +89,37 @@
 // }
 // console.log(myFunction2)
 
-const parent = [
-{
-    name:"Kshiti Tiwari",
-    grade: "A+",
-    city:"Banglore"
-},
-{
-    name:"Saral Yadav",
-    grade: "O+",
-    city:"Sultanpur"
-},
-{
-    name:"Aman Yadav",
-    grade: "O+",
-    city:"Sultanpur"
-},
+// const parent = [
+// {
+//     name:"Kshiti Tiwari",
+//     grade: "A+",
+//     city:"Banglore"
+// },
+// {
+//     name:"Saral Yadav",
+//     grade: "O+",
+//     city:"Sultanpur"
+// },
+// {
+//     name:"Aman Yadav",
+//     grade: "O+",
+//     city:"Sultanpur"
+// },
 
-]
+// ]
 
-console.log(parent);
+// console.log(parent);
+
+
+//  Function JS 
+//  normal function 
+//  arraow Function 
+//  nested Fuction 
+//  
+
+//Arrow Function 
+
+const functionName = () => {
+    console.log(`Hello`)
+}
+functionName()
