@@ -9,12 +9,12 @@ function add(a, b){
 }
 
 //.. Arrow function:
-const add = (a, b) => {
+const addArrow = (a, b) => {
     return a+b;
 }
 
 // Aur agar ek hi line ka kaam hai to aur short:
-const add = (a,b) => a+b;
+const addShort = (a,b) => a+b;
 
 //Yaha pe => ko hi arrow bolte hai, isi liye naam hai arrow function.
 

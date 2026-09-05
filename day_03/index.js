@@ -158,9 +158,9 @@ console.log("Code end hua");
 
 
 //1. Using <script> tag inside HTML
-<script>
-  console.log("JS connected");
-</script>
+// <script>
+//   console.log("JS connected");
+// </script>
 
 //2. Linking external JS file (most common ✅)
 //   <script src="script.js"></script>           👉 Your JS code will be in script.js
