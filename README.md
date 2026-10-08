@@ -207,4 +207,4 @@ In the [`day_notes/`](./day_notes/) directory, you will find:
 - GitHub: [@hanuman-kshitijTiwari](https://github.com/hanuman-kshitijTiwari) / [@hanuman-kshitij1001](https://github.com/hanuman-kshitij1001)
 - Repository: [javascript-practice](https://github.com/hanuman-kshitij1001/javascript-practice)
 
-⭐ *If you find this repository helpful for learning JavaScript, feel free to star it!*
+### ⭐ *If you find this repository helpful for learning JavaScript, feel free to star it!*
